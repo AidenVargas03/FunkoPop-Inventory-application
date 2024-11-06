@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+gasSoljBzs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aiden\\source\\repos\\CST-150(InventoryApplication)\\CST-150(InventoryApplication)\\CST-150(InventoryApplication).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aiden\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.8\\microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C-3PO,14,14.99,New,01/05/2023,Star Wars,Signed,Common
+Hisoka,8,12.99,New,10/29/2017,HunterXHunter,No,Chase
+Killua,20,18.99,Used,10/07/2019,HunterXHunter,Signed,Chase
+Kite,8,10.99,New,08/08/2018,HunterXHunter,No,Common
+Luke Skywalker,47,15.99,New,05/10/2022,Star Wars,Signed,Chase
+Rock Lee,9,16.99,Used,12/05/2018,Naruto,No,Chase
+Sasuke,10,18.99,New,11/09/2020,Naruto,No,Chase
+Spider-Man,26,12.50,Used,07/22/2021,Marvel,No,Common
+Yoda,20,19.99,New,11/14/2019,Star Wars,Signed,Common
